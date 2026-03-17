@@ -65,6 +65,7 @@ print("----------------------------------------------------------------------")
 ```
 
 ## Output
+<img width="757" height="421" alt="Screenshot 2026-03-15 204857" src="https://github.com/user-attachments/assets/69ff883c-cf67-4f15-98e7-a47ec151de2b" />
 
 
 ## Result
